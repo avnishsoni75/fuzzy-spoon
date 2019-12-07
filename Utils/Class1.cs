@@ -8,6 +8,6 @@ namespace Utils
 {
     public class Class1
     {
-        Added a line here
+        Changed a line here
     }
 }
